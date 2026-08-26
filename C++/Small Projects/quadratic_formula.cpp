@@ -9,6 +9,7 @@ int input_validation(float min, float max){
     while(true){
         std::cin >> input;
 
+        // check if input is between min and max
         if(input < min || input > max){
             std::cout << "Insert a valid number\n";
         }
@@ -18,6 +19,9 @@ int input_validation(float min, float max){
 }
 
 float calculate_discriminant(float a, float b, float c, bool print){
+    // certain functions use this function without the intent to
+    // print anything, so it only prints the discriminant informations
+    // if the user ask for it
     if(print == true){
         if(b*b - 4*a*c > 0){
             std::cout << "The equation has 2 roots\n";
@@ -36,7 +40,8 @@ std::vector<float> apply_quadratic_formula(float a, float b, float c, float disc
     // solutions
     std::vector<float> solutions;
 
-    // execute only if discriminant >= 0
+    // discriminant cannot be under 0, or else there would
+    // not have real solutions
     if(discriminant>=0){
         if(discriminant == 0){
             solutions.push_back(-b/(2*a));

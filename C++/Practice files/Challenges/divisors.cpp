@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-// program to check how many divisors a number has and if it is a prime or not
+// Challenge: find how many divisors a number has and if it is a prime or not
 
 std::vector<int> get_divisors(int number){
     std::vector<int> divisors;    

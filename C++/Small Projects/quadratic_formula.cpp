@@ -3,6 +3,7 @@
 #include <cmath>
 
 // Small Project: Quadratic Equations Solver/Analyzer
+// made in 18/08/2026
 
 int input_validation(float min, float max){
     int input;

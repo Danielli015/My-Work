@@ -12,3 +12,4 @@ https://www.youtube.com/watch?v=KmtqNaGPiiQ&t=1206s
 - Learn about CAD and get used to the software/enviornment
 
 ## Change Log:
+- Add stem handlebar split

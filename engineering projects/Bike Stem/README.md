@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=KmtqNaGPiiQ&t=1206s
 ## Goal
 - Use a CAD for the first time
 - Learn about CAD and get used to the software/enviornment
+
+## Change Log:

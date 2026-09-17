@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=KmtqNaGPiiQ&t=1206s
 
 ## Change Log:
 - Add stem handlebar split
+- Add stem pocket - arch hole in the middle
+- add fillets to corners

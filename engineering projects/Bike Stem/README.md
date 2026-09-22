@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=KmtqNaGPiiQ&t=1206s
 - add fillets to corners
 - add fillets to edges and front holes sketch
 - add two front holes
+- mirror stem

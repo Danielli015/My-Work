@@ -20,3 +20,4 @@ https://www.youtube.com/watch?v=KmtqNaGPiiQ&t=1206s
 - mirror stem
 - add both holes on stem's tip
 - add opening forks
+- add middle hole for weight reduction
